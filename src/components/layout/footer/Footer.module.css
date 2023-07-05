@@ -1,0 +1,36 @@
+.footer {
+  align-items: center;
+  background-color: black;
+  color: white;
+  padding: 2em;
+  border-top: 5px solid #8257e6;
+}
+
+.footer ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer li {
+  list-style: none;
+  margin: 0 1em;
+}
+
+.footer li svg {
+  font-size: 1.5em;
+  cursor: pointer;
+}
+
+.email {
+  color: white;
+  text-decoration: none;
+  font-size: 1em;
+}
+
+span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1em;
+}
